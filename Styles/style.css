@@ -1,0 +1,17 @@
+body {
+  font-family: "Marcellus", "Poppins", "Lemonada", sans-serif;
+  font-weight: 600;
+  background-color: #3b625f;
+  color: #fff;
+}
+
+h1 {
+  font-size: 65px;
+}
+h2 {
+  font-size: 30px;
+}
+
+.portfolio-container {
+  width: auto;
+}
